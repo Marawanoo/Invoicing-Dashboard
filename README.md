@@ -1,16 +1,45 @@
-# invoicing_dashboard
+# 💼 Invoicing Dashboard UI
 
-A new Flutter project.
+A clean and modern invoicing dashboard UI built using **Flutter**, featuring:
+- 🔄 Light & Dark mode toggle
+- 📱 Fully responsive layout (Desktop / Tablet / Mobile)
+- ⚙️ Powerful state management using **GetX** and **Bloc**
+- 📊 Interactive charts and animated transitions
+- 💳 Stylish card UI for wallet integration
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Light / Dark Mode Switch
+- Responsive Design using Flutter Layout Widgets
+- State Management using:
+  - GetX (for theming and navigation)
+  - BLoC (for complex business logic if applicable)
+- Dashboard Stats
+- Transaction and Account Activity Cards
+- Wallet/Card UI Design
+- Exchange Interface (Mockup UI)
 
-A few resources to get you started if this is your first Flutter project:
+## 🧰 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Technology | Usage |
+|------------|-------|
+| Flutter    | UI Framework |
+| GetX       | Navigation, Theme, and Simple State |
+| Bloc       | Business Logic Separation |
+| Dart       | Programming Language |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+- Light
+![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005506.png)
+![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005727.png)
+- Dark
+![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005739.png)
+![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005751.png)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/invoicing_dashboard.git
+cd invoicing_dashboard
+flutter pub get
+flutter run
