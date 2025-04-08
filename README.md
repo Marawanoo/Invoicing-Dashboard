@@ -30,11 +30,11 @@ A clean and modern invoicing dashboard UI built using **Flutter**, featuring:
 
 ## 📸 Screenshots
 - Light
-![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005506.png)
-![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005727.png)
+<img src="assets/images/Screenshot 2025-04-08 005506.png" width="500">
+<img src="assets/images/Screenshot 2025-04-08 005727.png" width="500">
 - Dark
-![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005739.png)
-![Dashboard Screenshot](assets/images/Screenshot 2025-04-08 005751.png)
+<img src="assets/images/Screenshot 2025-04-08 005739.png" width="500">
+<img src="assets/images/Screenshot 2025-04-08 005751.png" width="500">
 
 ## 📦 Installation
 
